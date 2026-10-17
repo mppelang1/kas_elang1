@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/kas_elang1",
+      "destination": "https://script.google.com/macros/s/AKfycby4Xx_5YQWJ3wrCCuNZefH2DFS4D5Q7iHf95aIbMIatJkdBupIExKuAitG91Gi-9GJd/exec",
+      "permanent": false
+    }
+  ]
+}
